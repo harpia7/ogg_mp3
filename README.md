@@ -10,7 +10,7 @@ bash script converts all ogg in folder to mp3!!!
 
 use:
 
-1 - copy to a folder all the .wav files you want to transcode
+1 - copy to a folder all the .ogg files you want to transcode
 
 2 - copy into this folder ogg_to_mp3.sh and make sure it has rwx execute permission
 
@@ -22,11 +22,11 @@ use:
 
 ex: $ ./ogg_to_mp3.sh 128000
 
-		a temporary file will be generated with a list of all .wav songs
+		a temporary file will be generated with a list of all .ogg songs
 		
 		they will all be transcoded to mp3 with requested bitrate
 		
-		a wav subfolder will be created where all the original files will be moved
+		a ogg subfolder will be created where all the original files will be moved
 		
 		will be temporarily shut down!
 		
