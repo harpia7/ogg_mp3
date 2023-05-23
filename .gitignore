@@ -1,0 +1,8 @@
+# ignora todos .ogg usados em teste
+*.ogg
+
+# ignora todos .mp3 usados em teste
+*.mp3
+
+# ignora pasta destino /ogg 
+/ogg
